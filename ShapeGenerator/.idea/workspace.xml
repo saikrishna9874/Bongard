@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2dfeafe-fa71-4c3d-8579-3312c291bfff" name="Default Changelist" comment="Added for the random figures and positions">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TryBejXvQiRg3BhXl6gUsr0wCN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ShapeGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Shapes" />
+      <module name="ShapeGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Shapes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2dfeafe-fa71-4c3d-8579-3312c291bfff" name="Default Changelist" comment="" />
+      <created>1574232374521</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574232374521</updated>
+      <workItem from="1574232386270" duration="2649000" />
+      <workItem from="1575147381324" duration="8486000" />
+      <workItem from="1575233192977" duration="5712000" />
+      <workItem from="1576039934664" duration="51000" />
+      <workItem from="1576040079887" duration="888000" />
+      <workItem from="1576080423485" duration="3585000" />
+      <workItem from="1576198017207" duration="3198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added for the random figures and positions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added for the random figures and positions" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="105" key="#Project_Structure" timestamp="1576201068591">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="105" key="#Project_Structure/0.23.1440.832@0.23.1440.832" timestamp="1576201068591" />
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom" timestamp="1576421017263">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1576113967680" />
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.835@0.23.1440.835" timestamp="1576421017263" />
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1576255115126" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center" timestamp="1576421017262">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1576113967679" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.835@0.23.1440.835" timestamp="1576421017262" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1576255115126" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left" timestamp="1576421017261">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1576113967678" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.835@0.23.1440.835" timestamp="1576421017261" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1576255115125" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right" timestamp="1576421017262">
+      <screen x="0" y="23" width="1440" height="835" />
+    </state>
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1576113967679" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.835@0.23.1440.835" timestamp="1576421017262" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1576255115126" />
+    <state x="374" y="273" key="com.intellij.ide.util.TipDialog" timestamp="1576198063019">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="374" y="273" key="com.intellij.ide.util.TipDialog/0.23.1440.832@0.23.1440.832" timestamp="1576198063019" />
+  </component>
+</project>

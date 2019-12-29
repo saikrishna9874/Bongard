@@ -1,0 +1,130 @@
+\documentclass[letterpaper,oneside,12pt]{report}
+% Package loading---------------------------------
+\usepackage{fitthesis}
+\usepackage{epsfig}
+\usepackage{graphicx}
+
+\usepackage{algorithm2e}
+\usepackage{setspace}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\usepackage[a-1b]{pdfx}
+
+
+\usepackage{subfig}
+\usepackage[subfigure]{tocloft} % no number for Vita in ToC
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{footmisc}
+\usepackage{algorithmic}
+\usepackage{listings}
+\usepackage{fancyvrb}
+\usepackage{booktabs}
+\usepackage{epstopdf}
+
+
+\graphicspath{{figures/}}  % Location of the graphics files
+
+
+%To get single-space, (for drafts only!) use:
+%\singlespacing
+
+\title{Title of Document\\ Second Line Example}
+\author{Full Author Name}
+
+%\GradDocumentType can be of the following: thesis, dissertation, design project, doctoral research project
+\GradDocumentType{dissertation}
+
+%Change this to be the college or school you are part of. For Example \CollegeOrSchoolName{College of Engineering and Science}
+\CollegeOrSchoolName{name of college or school}
+
+%Degree you are applying for, defaults to Master of Engineering
+\degree{Doctorate of Philosophy}
+\dept{Degree Program Name}
+
+%Your Previous Degree \\ University, year
+\authordegree{Master of ????? \\Department Name\\College\\  YYYY\\ \vspace{1em}
+	Bachelor of ???? \\Department Name\\ College\\ YYYY}
+%Month and Year document is turned in or graduation
+\copyrightmonth{Month}
+\copyrightyear{Year}
+
+%Define Committee Information
+\directorname{Major Advisor Name, Ph.D.}
+\directortitle{Title Goes Here}
+\directordept{Department Name}
+
+%Second Committee Member / Outside Member
+\secondreadername{Second / Outside Committee Member Name}
+\secondreadertitle{Title Goes Here}
+\secondreaderdept{Department Name}
+
+%Third Committe Member
+\thirdreadername{Third Committee Member Name}
+\thirdreadertitle{Title Goes Here}
+\thirdreaderdept{Department Name}
+
+%Forth Committee Member
+\toggletrue{useforthreader}
+\forthreadername{Fourth Committee Member Name, Ph.D., P.E.}
+\forthreadertitle{Title Goes Here}
+\forthreaderdept{Department}
+
+%Use Academic Unit Head
+\toggletrue{useacademicunithead}
+\academicunitheadname{Deapartment Head Name, Ph.D.}
+\academicunitheadtitle{Title Goes Here and Department Head}
+\academicunitheaddept{Department Name}
+
+
+%The following page is optional, to disable please use \togglefalse{usecopyrightpage}
+\toggletrue{usecopyrightpage}
+
+\begin{document}
+	
+	%For MS students
+	\makethesistitle
+
+	
+	%This abstract maintains the same look as all other sections.
+	%include Abstract Text
+	\include{abstract}
+	\makeumiabstract
+	
+	\pagebreak
+	%Optional
+	%\prefacesection{Preface}
+	\setcounter{secnumdepth}{6}
+	\setcounter{tocdepth}{4}
+	\newpage
+	\maketableofcontents
+	%\listoftables
+%	\newpage
+	\makelistoffigures
+	%Uncomment following line if you have 4 or more tables
+%	\newpage
+	\makelistoftables
+	
+%%-----------Abbreviations-------------------------
+\include{abbreviations}
+%%-----------Acknowledgments-----------------------
+\include{acknowledgments}
+%%-----------Dedication----------------------------
+\include{dedication}
+%%-----------change single space to double space---
+\doublespacing \pagenumbering{arabic}
+
+%%-----------Main Matter---------------------------
+\include{./chapters/chapter1}
+\include{./chapters/chapter2}
+\include{./chapters/chapter3}
+\include{./chapters/chapter4}
+%%-----------Back Matter---------------------------
+%%-----------Bibliography--------------------------
+\nocite{*}
+% Do not split a reference between two pages, this should be taken care of in the style
+\bibliographystyle{plain}
+\bibliography{mybibliography}
+%%-----------Appendices----------------------------
+\include{./chapters/appendices}
+\end{document}

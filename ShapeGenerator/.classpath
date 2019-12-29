@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-all-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-anim-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-awt-util-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-bridge-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-codec-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-constants-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-css-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-dom-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-ext-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-extension-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-gui-util-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-gvt-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-i18n-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-parser-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-script-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-svgbrowser-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-svg-dom-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-svggen-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-svgrasterizer-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-swing-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-test-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-test-svg-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-test-swing-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-transcoder-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-util-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-util-1.11-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/batik-xml-1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/fop-transcoder-allinone-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/js.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/xercesImpl-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/xml-apis-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/xml-apis-ext-1.3.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/saikr/Documents/Eclipse Projects/ShapeGenerator/lib/xmlgraphics-commons-2.3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
